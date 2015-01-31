@@ -1,0 +1,440 @@
+Austria,1990,36.9
+Austria,1991,36.5
+Austria,1992,35.5
+Austria,1993,32.8
+Austria,1994,34.9
+Austria,1995,35.8
+Austria,1996,37.1
+Austria,1997,39.9
+Austria,1998,40.5
+Austria,1999,41.1
+Austria,2000,44.7
+Austria,2001,46.3
+Austria,2002,44.3
+Austria,2003,45.1
+Austria,2004,48.1
+Austria,2005,50.1
+Austria,2006,51.7
+Austria,2007,53.7
+Belgium,1990,67.5
+Belgium,1991,65.8
+Belgium,1992,63.5
+Belgium,1993,59.7
+Belgium,1994,61.8
+Belgium,1995,63.5
+Belgium,1996,65.7
+Belgium,1997,69.6
+Belgium,1998,70.4
+Belgium,1999,71.0
+Belgium,2000,81.7
+Belgium,2001,81.3
+Belgium,2002,77.8
+Belgium,2003,76.5
+Belgium,2004,79.5
+Belgium,2005,82.9
+Belgium,2006,84.2
+Belgium,2007,85.8
+Canada,1990,25.7
+Canada,1991,25.7
+Canada,1992,27.5
+Canada,1993,30.2
+Canada,1994,32.8
+Canada,1995,34.1
+Canada,1996,34.4
+Canada,1997,37.5
+Canada,1998,39.4
+Canada,1999,39.5
+Canada,2000,39.8
+Canada,2001,37.8
+Canada,2002,37.1
+Canada,2003,34.4
+Canada,2004,34.1
+Canada,2005,34.1
+Canada,2006,33.6
+Canada,2007,32.7
+Czech Republic,1990,40.2
+Czech Republic,1991,43.1
+Czech Republic,1992,50.8
+Czech Republic,1993,51.0
+Czech Republic,1994,50.1
+Czech Republic,1995,55.1
+Czech Republic,1996,54.8
+Czech Republic,1997,57.3
+Czech Republic,1998,55.3
+Czech Republic,1999,56.6
+Czech Republic,2000,66.4
+Czech Republic,2001,67.9
+Czech Republic,2002,62.3
+Czech Republic,2003,64.1
+Czech Republic,2004,70.1
+Czech Republic,2005,69.0
+Czech Republic,2006,73.1
+Czech Republic,2007,75.1
+Denmark,1990,32.6
+Denmark,1991,33.1
+Denmark,1992,31.6
+Denmark,1993,30.7
+Denmark,1994,32.4
+Denmark,1995,33.5
+Denmark,1996,33.0
+Denmark,1997,35.1
+Denmark,1998,36.1
+Denmark,1999,35.7
+Denmark,2000,40.5
+Denmark,2001,40.6
+Denmark,2002,41.4
+Denmark,2003,39.1
+Denmark,2004,40.5
+Denmark,2005,44.1
+Denmark,2006,48.9
+Denmark,2007,50.2
+Finland,1990,23.9
+Finland,1991,22.4
+Finland,1992,25.0
+Finland,1993,27.1
+Finland,1994,29.1
+Finland,1995,28.8
+Finland,1996,29.7
+Finland,1997,30.7
+Finland,1998,29.6
+Finland,1999,28.7
+Finland,2000,33.9
+Finland,2001,31.8
+Finland,2002,31.0
+Finland,2003,31.5
+Finland,2004,33.0
+Finland,2005,37.4
+Finland,2006,40.2
+Finland,2007,40.7
+France,1990,22.6
+France,1991,22.6
+France,1992,21.4
+France,1993,20.1
+France,1994,21.0
+France,1995,21.6
+France,1996,21.7
+France,1997,22.8
+France,1998,23.7
+France,1999,24.0
+France,2000,27.7
+France,2001,27.0
+France,2002,25.4
+France,2003,24.6
+France,2004,25.6
+France,2005,26.9
+France,2006,28.1
+France,2007,28.4
+Germany,1990,24.9
+Germany,1991,26.2
+Germany,1992,24.5
+Germany,1993,22.3
+Germany,1994,22.9
+Germany,1995,23.5
+Germany,1996,24.0
+Germany,1997,26.2
+Germany,1998,27.3
+Germany,1999,28.5
+Germany,2000,33.0
+Germany,2001,32.8
+Germany,2002,31.2
+Germany,2003,31.7
+Germany,2004,33.3
+Germany,2005,35.7
+Germany,2006,39.7
+Germany,2007,39.9
+Germany,2008,41.5
+Greece,1990,29.6
+Greece,1991,28.5
+Greece,1992,28.0
+Greece,1993,26.9
+Greece,1994,25.4
+Greece,1995,26.5
+Greece,1996,27.1
+Greece,1997,28.8
+Greece,1998,30.0
+Greece,1999,32.9
+Greece,2000,38.4
+Greece,2001,37.2
+Greece,2002,34.6
+Greece,2003,33.0
+Greece,2004,32.0
+Greece,2005,30.9
+Greece,2006,32.6
+Greece,2007,33.5
+Hungary,1991,32.6
+Hungary,1992,30.6
+Hungary,1993,33.4
+Hungary,1994,34.2
+Hungary,1995,43.1
+Hungary,1996,46.3
+Hungary,1997,52.2
+Hungary,1998,61.2
+Hungary,1999,64.7
+Hungary,2000,75.7
+Hungary,2001,72.3
+Hungary,2002,65.1
+Hungary,2003,64.7
+Hungary,2004,66.5
+Hungary,2005,67.8
+Hungary,2006,77.8
+Hungary,2007,78.7
+Iceland,1990,32.3
+Iceland,1991,32.5
+Iceland,1992,30.4
+Iceland,1993,29.6
+Iceland,1994,30.6
+Iceland,1995,31.9
+Iceland,1996,35.7
+Iceland,1997,35.7
+Iceland,1998,39.2
+Iceland,1999,38.3
+Iceland,2000,40.9
+Iceland,2001,39.9
+Iceland,2002,35.9
+Iceland,2003,37.4
+Iceland,2004,39.8
+Iceland,2005,44.0
+Iceland,2006,50.0
+Iceland,2007,46.0
+Ireland,1990,52.4
+Ireland,1991,52.9
+Ireland,1992,53.2
+Ireland,1993,55.4
+Ireland,1994,60.9
+Ireland,1995,64.5
+Ireland,1996,65.3
+Ireland,1997,66.3
+Ireland,1998,75.0
+Ireland,1999,75.1
+Ireland,2000,84.6
+Ireland,2001,84.3
+Ireland,2002,76.7
+Ireland,2003,67.7
+Ireland,2004,68.8
+Ireland,2005,69.6
+Ireland,2006,69.2
+Ireland,2007,68.7
+Italy,1990,19.0
+Italy,1991,17.8
+Italy,1992,18.4
+Italy,1993,18.2
+Italy,1994,19.4
+Italy,1995,21.9
+Italy,1996,20.1
+Italy,1997,21.4
+Italy,1998,22.1
+Italy,1999,22.6
+Italy,2000,26.1
+Italy,2001,25.7
+Italy,2002,24.8
+Italy,2003,24.0
+Italy,2004,24.6
+Italy,2005,26.0
+Italy,2006,28.7
+Italy,2007,29.5
+Luxembourg,1990,88.2
+Luxembourg,1991,89.2
+Luxembourg,1992,84.1
+Luxembourg,1993,82.7
+Luxembourg,1994,83.8
+Luxembourg,1995,85.2
+Luxembourg,1996,90.9
+Luxembourg,1997,103.6
+Luxembourg,1998,111.1
+Luxembourg,1999,115.0
+Luxembourg,2000,129.0
+Luxembourg,2001,129.0
+Luxembourg,2002,121.1
+Luxembourg,2003,113.2
+Luxembourg,2004,128.1
+Luxembourg,2005,133.0
+Luxembourg,2006,143.9
+Luxembourg,2007,148.1
+Netherlands,1990,52.6
+Netherlands,1991,53.1
+Netherlands,1992,51.6
+Netherlands,1993,49.2
+Netherlands,1994,51.2
+Netherlands,1995,53.7
+Netherlands,1996,54.4
+Netherlands,1997,57.6
+Netherlands,1998,57.9
+Netherlands,1999,58.8
+Netherlands,2000,64.5
+Netherlands,2001,61.5
+Netherlands,2002,57.6
+Netherlands,2003,56.7
+Netherlands,2004,59.0
+Netherlands,2005,61.1
+Netherlands,2006,65.0
+Netherlands,2007,66.3
+Norway,1990,33.8
+Norway,1991,32.1
+Norway,1992,31.1
+Norway,1993,31.5
+Norway,1994,32.0
+Norway,1995,31.8
+Norway,1996,31.8
+Norway,1997,33.1
+Norway,1998,35.8
+Norway,1999,32.0
+Norway,2000,29.4
+Norway,2001,28.8
+Norway,2002,27.7
+Norway,2003,27.3
+Norway,2004,28.5
+Norway,2005,28.2
+Norway,2006,28.4
+Norway,2007,29.8
+Poland,1990,19.7
+Poland,1991,23.3
+Poland,1992,20.3
+Poland,1993,20.1
+Poland,1994,19.7
+Poland,1995,21.0
+Poland,1996,23.7
+Poland,1997,27.3
+Poland,1998,30.8
+Poland,1999,30.1
+Poland,2000,33.5
+Poland,2001,30.7
+Poland,2002,32.1
+Poland,2003,36.0
+Poland,2004,39.8
+Poland,2005,37.8
+Poland,2006,42.2
+Poland,2007,43.6
+Portugal,1990,37.9
+Portugal,1991,35.7
+Portugal,1992,33.6
+Portugal,1993,32.3
+Portugal,1994,33.8
+Portugal,1995,35.0
+Portugal,1996,35.1
+Portugal,1997,36.6
+Portugal,1998,37.9
+Portugal,1999,38.1
+Portugal,2000,40.6
+Portugal,2001,38.9
+Portugal,2002,36.3
+Portugal,2003,34.5
+Portugal,2004,36.2
+Portugal,2005,37.4
+Portugal,2006,39.2
+Portugal,2007,40.0
+Slovakia,1993,61.0
+Slovakia,1994,54.2
+Slovakia,1995,55.6
+Slovakia,1996,64.1
+Slovakia,1997,66.0
+Slovakia,1998,70.0
+Slovakia,1999,65.6
+Slovakia,2000,73.0
+Slovakia,2001,80.8
+Slovakia,2002,78.3
+Slovakia,2003,77.7
+Slovakia,2004,77.2
+Slovakia,2005,80.8
+Slovakia,2006,88.3
+Slovakia,2007,87.5
+Spain,1990,19.4
+Spain,1991,19.2
+Spain,1992,19.3
+Spain,1993,18.8
+Spain,1994,20.8
+Spain,1995,22.4
+Spain,1996,23.1
+Spain,1997,25.4
+Spain,1998,26.9
+Spain,1999,28.5
+Spain,2000,32.2
+Spain,2001,31.0
+Spain,2002,29.5
+Spain,2003,28.7
+Spain,2004,29.9
+Spain,2005,31.0
+Spain,2006,32.8
+Spain,2007,33.3
+Sweden,1990,30.0
+Sweden,1991,26.5
+Sweden,1992,26.3
+Sweden,1993,29.0
+Sweden,1994,31.6
+Sweden,1995,32.9
+Sweden,1996,31.9
+Sweden,1997,34.6
+Sweden,1998,36.5
+Sweden,1999,36.7
+Sweden,2000,40.3
+Sweden,2001,39.8
+Sweden,2002,37.8
+Sweden,2003,37.0
+Sweden,2004,38.2
+Sweden,2005,41.0
+Sweden,2006,43.3
+Sweden,2007,44.9
+Switzerland,1990,34.7
+Switzerland,1991,32.9
+Switzerland,1992,31.8
+Switzerland,1993,30.6
+Switzerland,1994,30.8
+Switzerland,1995,30.8
+Switzerland,1996,31.7
+Switzerland,1997,34.9
+Switzerland,1998,35.8
+Switzerland,1999,36.5
+Switzerland,2000,40.7
+Switzerland,2001,41.0
+Switzerland,2002,37.8
+Switzerland,2003,37.5
+Switzerland,2004,39.4
+Switzerland,2005,42.3
+Switzerland,2006,44.7
+Switzerland,2007,46.7
+Turkey,1998,20.2
+Turkey,1999,19.3
+Turkey,2000,23.1
+Turkey,2001,23.3
+Turkey,2002,23.6
+Turkey,2003,24.0
+Turkey,2004,26.2
+Turkey,2005,25.4
+Turkey,2006,27.6
+Turkey,2007,27.0
+United Kingdom,1990,26.1
+United Kingdom,1991,23.8
+United Kingdom,1992,24.5
+United Kingdom,1993,26.1
+United Kingdom,1994,26.9
+United Kingdom,1995,28.4
+United Kingdom,1996,29.2
+United Kingdom,1997,28.1
+United Kingdom,1998,27.3
+United Kingdom,1999,27.6
+United Kingdom,2000,29.5
+United Kingdom,2001,29.4
+United Kingdom,2002,28.7
+United Kingdom,2003,27.8
+United Kingdom,2004,28.0
+United Kingdom,2005,29.8
+United Kingdom,2006,31.7
+United Kingdom,2007,29.7
+United States,1990,10.9
+United States,1991,10.4
+United States,1992,10.5
+United States,1993,10.8
+United States,1994,11.5
+United States,1995,12.2
+United States,1996,12.3
+United States,1997,12.7
+United States,1998,12.8
+United States,1999,13.5
+United States,2000,15.0
+United States,2001,13.8
+United States,2002,13.7
+United States,2003,14.1
+United States,2004,15.4
+United States,2005,16.3
+United States,2006,17.0
+United States,2007,17.2
+United States,2008,17.7
