@@ -10,13 +10,16 @@ To help visual analytics the app uses several methods and the software was devel
 [More methods at NComVA's guides](http://www.ncomva.se/guide/?chapter=Visualizations)
 
 ### Cloropleth Map
-![Cloropleth Map][cloropleth-img]
+<img src="/docs/images/component_map.png?raw=true" width="250px">
+
 ### Scatter Plot
-![Scatter Plot][scatterplot-img]
+<img src="/docs/images/component_scatter_plot.png?raw=true" width="250px">
+
 ### Parallel Coordinates Plot
-![Parallel Coordinates Plot][pcplot-img]
+<img src="/docs/images/component_pc_plot_vars.png?raw=true" width="500px">
+
 ### Table Lens
-![Table Lens][tablelens-img]
+<img src="/docs/images/component_table_lens.png?raw=true" width="250px">
 
 ## Data sources
 The following data points was collected from public databases provided by the United Nations and the World Bank in the time segment 1990-2005.
@@ -38,7 +41,7 @@ The following data points was collected from public databases provided by the Un
 * Electric power consumption (kWh per capita)
 * Greenhouse Gas (GHGs) Emissions without LULUCF, in Gigagrams (Gg) CO2 equivalent
 
-[Cloropleth-img]: \docs\images\component_map.png
-[scatterplot-img]: \docs\images\component_map.png
-[pcplot-img]: \docs\images\component_map.png
-[tablelens-img]: \docs\images\component_map.png
+[Cloropleth-img]: /docs/images/component_map.png?raw=true
+[scatterplot-img]: /docs/images/component_scatter_plot.png?raw=true
+[pcplot-img]: /docs/images/component_pc_plot_vars.png?raw=true
+[tablelens-img]: /docs/images/component_table_lens.png?raw=true
