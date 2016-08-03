@@ -41,6 +41,11 @@ The following data points was collected from public databases provided by the Un
 * Electric power consumption (kWh per capita)
 * Greenhouse Gas (GHGs) Emissions without LULUCF, in Gigagrams (Gg) CO2 equivalent
 
+
+## License
+
+MIT @ https://tolu.mit-license.org/
+
 [Cloropleth-img]: /docs/images/component_map.png?raw=true
 [scatterplot-img]: /docs/images/component_scatter_plot.png?raw=true
 [pcplot-img]: /docs/images/component_pc_plot_vars.png?raw=true
